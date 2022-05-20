@@ -31,6 +31,8 @@
 <div/>
 
 <br></br>
+    <img src="https://activity-graph.herokuapp.com/graph?username=nadeemabbas0474&theme=redical&hide_border=true">
+<br></br>
 
 ## About Me
 
