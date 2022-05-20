@@ -1,5 +1,6 @@
-###  Hello Awesome Developers 👋
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
+I´m Nadeem Abbas , Fronted Developer
 <p>
   <a href="https://github.com/nadeemabbas0474" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=nadeemabbas0474&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
@@ -11,7 +12,7 @@
 
 ## 🔧 Technologies & 📖 Languages
 
-<div align="left">
+<div display="flex">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <br/>
