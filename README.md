@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I´m Nadeem Abbas , Fronted Developer
+I´m Nadeem Abbas, Fronted Developer
 <p>
   <a href="https://github.com/nadeemabbas0474" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=nadeemabbas0474&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
@@ -33,4 +33,4 @@ I´m Nadeem Abbas , Fronted Developer
 
 ## About Me
 
-I'm a passionate🥇, creative🎨 and perceptive🔭 Javascript Engineer with a hands-on approach to problem-solving and an unending thirst for knowledge🎓.I'm always open to new ideas and opportunities.
+I'm a passionate🥇, creative🎨 and perceptive🔭 Javascript Engineer with a hands-on approach to problem-solving and an unending thirst for knowledge🎓. I'm always open to new ideas and opportunities.
