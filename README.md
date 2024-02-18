@@ -18,7 +18,7 @@ I´m Nadeem Abbas, a Fronted Engineer / React.JS Developer / NextJS / TypeScript
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <br/>
   <br/>
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code">
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code">
   <img src="https://img.shields.io/badge/-MatrialUI-0081CB?style=for-the-badge&logo=material-UI">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
