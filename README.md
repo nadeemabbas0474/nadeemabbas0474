@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I´m Nadeem Abbas, a Fronted Engineer / React.JS Developer / NextJS / TypeScript with a bachelor's in Software Engineering Degree
+👋 Hey there! I'm Nadeem Abbas, a passionate Frontend Engineer specializing in React.js, Next.js, and TypeScript. Armed with a bachelor's degree in Software Engineering from Pakistan
 <p>
   <a href="https://github.com/nadeemabbas0474" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=nadeemabbas0474&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
