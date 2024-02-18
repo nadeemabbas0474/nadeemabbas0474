@@ -33,4 +33,4 @@ I´m Nadeem Abbas, a Fronted Engineer / React.JS Developer / NextJS / TypeScript
 
 ## About Me
 
-I'm a passionate🥇, creative🎨 and perceptive🔭 Javascript Engineer with a hands-on approach to problem-solving and an unending thirst for knowledge🎓. I'm always open to new ideas and opportunities.
+🥇 Passionate and creative Javascript Engineer with a hands-on approach to problem-solving and an insatiable thirst for knowledge. 🎨 Always open to new ideas and opportunities, I bring a perceptive eye to every project I undertake. Let's collaborate and innovate together! 🎓
