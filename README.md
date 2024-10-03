@@ -27,10 +27,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <div/>
 
-<br></br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=nadeemabbas0474&theme=redical&hide_border=true">
-<br></br>
-
 ## About Me
 
 🥇 Passionate and creative Javascript Engineer with a hands-on approach to problem-solving and an insatiable thirst for knowledge. 🎨 Always open to new ideas and opportunities, I bring a perceptive eye to every project I undertake. Let's collaborate and innovate together! 🎓
