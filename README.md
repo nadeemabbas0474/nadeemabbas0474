@@ -23,7 +23,7 @@
   <br/>
   <br/>
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/-MatrialUI-0081CB?style=for-the-badge&logo=material-UI">
   <img src="https://img.shields.io/badge/Redux-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/next-339933?style=for-the-badge&logo=next.js&logoColor=white">
