@@ -1,14 +1,14 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hey there! 
 
-Hi there! 👋 I'm Nadeem Abbas
-I'm a Frontend Engineer specializing in React.js, Next.js, and TypeScript. I have a Bachelor’s degree in Software Engineering from Pakistan. Passionate about building scalable web applications, I love working with modern JavaScript frameworks and exploring best practices in frontend development.
+<p>I'm Nadeem Abbas a Frontend Engineer specializing in React.js, Next.js, and TypeScript. I have a Bachelor’s degree in Software Engineering from Pakistan. Passionate about building scalable web applications, I love working with modern JavaScript frameworks and exploring best practices in frontend development.</p>
 
 🚀 Tech Stack:
 
 Frontend: React.js, Next.js, TypeScript
 Styling: TailwindCSS, Material-UI, Shadcn
 Backend: Node.js, Firebase, MySQL
-Other Skills: JavaScript, Python, Git, Web Performance Optimization
+Other Skills: JavaScript, Python, Git, Web Performance Optimization.
+
 📌 What I Do:
 
 Develop high-performance, user-friendly web applications
