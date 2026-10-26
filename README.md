@@ -12,7 +12,7 @@
 
 <h4>🔬 Current Research Interests</h4>
 
-<ul> <li>🤖 Artificial Intelligence & Machine Learning</li> <li>🧠 Deep Learning & Reinforcement Learning</li> <li>🛡️ Safe Reinforcement Learning</li> <li>🤝 Multi-Agent Reinforcement Learning (MARL)</li> <li>🚗 Autonomous Systems & Autonomous Vehicles</li> <li>📐 Formal Methods & Formal Verification</li> <li>⏱️ Temporal Logic Verification</li> <li>🌎 World Models</li> <li>🔐 AI & Software System Security</li> <li>👁️ Computer Vision & Image Processing</li> <li>📝 Natural Language Processing</li> <li>📊 Data Mining & Big Data Analysis</li> </ul>
+<ul> <li>🤖 Artificial Intelligence & Machine Learning</li> <li>🧠 Deep Learning & Reinforcement Learning</li> <li>🛡️ Safe Reinforcement Learning</li> <li>🤝 Multi-Agent Reinforcement Learning (MARL)</li> <li>🚗 Autonomous Systems & Autonomous Vehicles</li> <li>📐 Formal Methods & Formal Verification</li> <li>⏱️ Temporal Logic Verification</li> <li>🔐 AI & Software System Security</li> <li>👁️ Computer Vision & Image Processing</li> <li>📝 Natural Language Processing</li> <li>📊 Data Mining & Big Data Analysis</li> </ul>
 
 <h4>🎯 Current Research Direction</h4>
 
